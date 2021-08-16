@@ -1,0 +1,25 @@
+
+Layer 'QWERTY' have been added
+Layer 'LOWER' have been added
+Layer 'RAISE' have been added
+Layer 'ADJUST' have been added
+Layer 'NAV' have been added
+Layer 'MOUSE' have been added
+Layer 'TURKISH' have been added
+
+/* QWERTY
+
+ * ┌──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
+ * │  Tab │   Q  │   W  │   E  │   R  │   T  │   Y  │   U  │   I  │   O  │   P  │ Bksp │
+ * ├──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┤
+ * │LCTL_T(KC_ESC)│   A  │   S  │   D  │   F  │   G  │   H  │   J  │   K  │   L  │   ;  │RCTL_T(KC_QUOT)│
+ * ├──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┤
+ * │ Shft │   Z  │   X  │   C  │   V  │   B  │   N  │   M  │   ,  │   .  │   /  │KC_SFTENT│
+ * ├──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┤
+ * │ MO(5)│ Ctrl │  Alt │  Gui │ MO(1)│ LT(4 │ KC_SPC)│ MO(2)│LGUI_T(KC_BSPC)│RALT_T(KC_DEL)│ Ctrl │LCTL(KC_TAB)│
+ * └──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
+ */
+
+/* LOWER
+
+ * ┌──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬
